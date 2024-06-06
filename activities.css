@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    background: #fff;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    box-shadow:  -5px -5px 15px rgba(255, 255, 255, 0.1),
+            5px 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.left{
+    flex: 0.3;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    margin-left: 10px;
+    font-weight: 700;
+    color: #14447c;
+    /* background: red; */
+}
+
+.center{
+    flex: 1.5;
+    justify-content: left;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700;
+    margin-right: 90px;
+    /* background: yellow; */
+}
+
+.center ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.center ul li a{
+    text-decoration: none;
+    font-size: 19px;
+    color: #3c98e0;
+    transition: 0.5s;
+    margin-left: 4.4vw;
+}
+.center ul li a:hover{
+    color: #14447c;
+}
+
+.right{
+    flex: 0.5;
+    justify-content: right;
+    position: relative;
+    /* background: red; */
+}
+
+.right h6{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: #14447c;
+}
+
+.right h3{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 29px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #3c98e0;
+    margin-right: 70px;
+    transition: 0.5s;
+}
+
+.right h3:hover{
+    color: #14447c;
+}
+
+.bodyy{
+    width: 74vw;
+    height: 70vh;
+    /* background: yellow; */
+    padding: 0 13vw ;
+    display: flex;
+    margin-top: 7vh;
+}
+
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.leftt{
+    flex: 1;
+    /* background: #3c98e0; */
+}
+
+.rightt{
+    flex: 1.1;
+    /* background-color: red; */
+    padding: 0 2vw;
+}
+.bodyy img{
+    width: 30.5vw;
+    margin-top: 6vh;
+}
+
+.tur{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 40px;
+    color: #3c98e0;
+    font-weight: 800;
+}
+
+.lists{
+    font-family: 'Varela Round', sans-serif;
+    color: #14447c;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 36px;
+    margin-left: 1vw;
+}
+
+.pricee{
+    font-family: 'Varela Round', sans-serif;
+    color: #14447c;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 36px;
+    margin-left: 1vw;
+    flex: 1;
+}
+
+.rightBottom{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rightBottom button{
+    padding: 0 1.5vw;
+    border-radius: 8px;
+    background-color: #0740ab;
+    border: 2px solid #0049e4;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.rightt button{
+    padding: 0 1.5vw;
+    border-radius: 8px;
+    background-color: #0740ab;
+    border: 2px solid #0049e4;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    height: 4.5vh;
+    margin-left: 1vw;
+}
+
+.bottom{
+    display: flex;
+}
