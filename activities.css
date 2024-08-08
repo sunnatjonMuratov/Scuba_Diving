@@ -92,12 +92,10 @@ body {
 
 .leftt{
     flex: 1;
-    /* background: #3c98e0; */
 }
 
 .rightt{
     flex: 1.1;
-    /* background-color: red; */
     padding: 0 2vw;
 }
 .bodyy img{
