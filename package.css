@@ -22,7 +22,6 @@
     margin-left: 10px;
     font-weight: 700;
     color: #14447c;
-    /* background: red; */
 }
 
 .center{
@@ -31,7 +30,6 @@
     font-family: 'Varela Round', sans-serif;
     font-weight: 700;
     margin-right: 90px;
-    /* background: yellow; */
 }
 
 .center ul li {
@@ -54,7 +52,6 @@
     flex: 0.5;
     justify-content: right;
     position: relative;
-    /* background: red; */
 }
 
 .right h6{
@@ -83,7 +80,6 @@
 .bodyy{
     width: 74vw;
     height: 50vh;
-    /* background: yellow; */
     padding: 0 13vw ;
     display: flex;
     margin-top: 7vh;
@@ -91,12 +87,10 @@
 
 .leftt{
     flex: 1;
-    /* background: #3c98e0; */
 }
 
 .rightt{
     flex: 1;
-    /* background-color: red; */
     padding: 0 2vw;
 }
 .bodyy img{
