@@ -15,6 +15,8 @@ HTML: Structure and content of the web pages.
 CSS: Styling to make the app visually appealing.
 Images: Visuals to enhance the user experience.
 📂 Project Structure
+
+
 .
 ├── index.html            # The main landing page for the Scuba Diving Experience App
 ├── styles.css            # Contains all the CSS styles for the project
@@ -24,8 +26,10 @@ Images: Visuals to enhance the user experience.
 │   └── ...
 └── /assets               # Optional, if you have additional assets like fonts or icons
 
+
 Clone the Repository:
 git clone https://github.com/sunnatjonMuratov/Scuba_Diving.git
+
 
 Navigate to the Project Directory:
 cd Scuba_Diving
