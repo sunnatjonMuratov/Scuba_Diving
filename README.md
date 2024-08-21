@@ -16,6 +16,7 @@ CSS: Styling to make the app visually appealing.
 Images: Visuals to enhance the user experience.
 
 Clone the Repository:
+
 git clone https://github.com/sunnatjonMuratov/Scuba_Diving.git
 
 
@@ -31,20 +32,3 @@ Colors and Styles: Feel free to customize the CSS in styles.css to match your pr
 Images: Replace the images in the /images directory with your own to personalize the diving spots and enhance the visual experience.
 🤝 Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m 'Add your feature'
-Push to the branch:
-bash
-Copy code
-git push origin feature/your-feature-name
-Create a Pull Request.
-📝 License
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you see fit.
